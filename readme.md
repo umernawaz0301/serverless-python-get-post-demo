@@ -25,5 +25,7 @@ To install dependencies run this commands
     pip3 install -r requirements.txt
 
 install node modules
+
+
     npm install
 
